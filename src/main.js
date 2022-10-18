@@ -10,7 +10,7 @@ const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img")
 
 function setCardType(type) {
 const colors = {
-  visa: ["#2D57F2", "#436D99"],
+  visa: ["#F22D2D", "#FFC700"],
   mastercard: ["#C69347", "#DF6F29"],
   paypal: ["#EEEEEE", "#00FF85"],
   cielo: ["#FFFFFF", "#F22D5D"],
